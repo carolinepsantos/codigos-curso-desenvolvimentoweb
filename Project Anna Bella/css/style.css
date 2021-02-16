@@ -1,0 +1,49 @@
+/* Formatando tags HTML */
+body {
+    /* Na propriedade background podem ser utilizados tanto uma cor quanto uma imagem. 
+       Uma outra alternativa seria utilizar o background-image e o background-color */
+    background: #d2d2c1 url('../images/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: #4b556a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+h1 {
+    color: #828271;
+    font-size: 1.2em;
+}
+
+/* Formatando as classes criadas */
+.centralizar {
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.img-campanha {
+    border: 10px solid #c3c3ae;
+}
+
+/* Formatando os id's criados */
+#principal {
+    width: 900px;
+}
+
+#menu {
+    background: #c5c5b2;
+    padding: 20px;
+}
+
+#conteudo {
+    background: #e8e8e9;
+    padding: 10px;
+}
+
+#rodape {
+    background: #ffffff;
+}
+
