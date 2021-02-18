@@ -168,6 +168,60 @@ input {
     padding: 5px;
 }
 
+/* Formatando imagens */
+img.imagem-principal {
+    width: 98%;
+    border: 3px solid #dfdfdf;
+}
+
+/* Formatando cabeçalhos */
+h3 {
+    text-transform: uppercase;
+    display: inline;
+    font-size: 0.8em;
+    padding: 3px;
+}
+
+.destaque h3 {
+    background: #b10333;
+    color: #ffffff;
+}
+
+.entrevista h3 {
+    background: #de003e;
+    color: #000000;
+}
+
+/* Formatando as notícias */
+#lista-noticias li {
+    padding: 2px;
+    border-bottom: 1px solid #cccccc;
+    height: 62px;
+}
+
+#lista-noticias li a img {
+    float: left;
+    margin: 5px;
+}
+
+#lista-noticias li a {
+    text-decoration: none;
+}
+
+#lista-noticias li a h3 {
+    padding: 0;
+    font-size: 0.8em;
+}
+
+#lista-noticias li a p {
+    font-size: 0.7em;
+}
+
+#lista-noticias li:hover {
+    background: #eeeeee;
+    cursor: pointer;
+}
+
 /* Rodapé */
 #container-rodape {
     background: #294c71;
