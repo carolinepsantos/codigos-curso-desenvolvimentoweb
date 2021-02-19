@@ -7,4 +7,4 @@
 - Utilizando carousel e header fixo
 
 ## Observações
-- Direito das imagens reservado aos instrutores do curso Jorge Sant Ana e Jamilton Nascimento.
+- Direito das imagens reservado ao Spotify, as imagens foram usadas para fins educacionais e não devem ser utilizadas nos projetos pessoais.
